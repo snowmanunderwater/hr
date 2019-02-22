@@ -12,12 +12,12 @@ parser = argparse.ArgumentParser(description='Horizontal rule')
 parser.add_argument('-c',
                     dest='color',  # argument name
                     type=str,
-                    help='ANSI color')
+                    help='Character color')
 
 parser.add_argument('-b',
                     dest='background',  # argument name
                     type=str,
-                    help='ANSI color')
+                    help='Background color')
 
 parser.add_argument('-s',
                     dest='string',  # argument name
