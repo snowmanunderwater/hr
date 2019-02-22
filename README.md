@@ -4,6 +4,7 @@
 
 ## Usage
 
+```
 usage: hr.py [-h] [-c COLOR] [-b BACKGROUND] [-s STRING]
 
 Horizontal rule
@@ -13,3 +14,4 @@ optional arguments:
   -c COLOR       Character color
   -b BACKGROUND  Background color
   -s STRING      Character
+```
